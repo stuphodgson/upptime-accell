@@ -22,7 +22,7 @@
     "url": "https://dashboard.accelldigital.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.accelldigital.co.uk.ico",
     "slug": "accell-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 612,
     "timeYear": 627,
     "dailyMinutesDown": {
+      "2024-11-22": 0,
       "2024-10-22": 17
     }
   }
