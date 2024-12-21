@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 81,
-    "timeWeek": 116,
-    "timeMonth": 168,
-    "timeYear": 151,
+    "time": 150,
+    "timeDay": 91,
+    "timeWeek": 113,
+    "timeMonth": 167,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "accell-dashboard",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 650,
-    "timeDay": 649,
-    "timeWeek": 664,
-    "timeMonth": 678,
-    "timeYear": 650,
+    "time": 649,
+    "timeDay": 626,
+    "timeWeek": 618,
+    "timeMonth": 687,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2024-12-20": 7,
       "2024-10-22": 17
     }
   }
